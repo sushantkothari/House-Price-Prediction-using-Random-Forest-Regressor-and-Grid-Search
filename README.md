@@ -11,9 +11,12 @@ This project aims to predict median house prices in a given region based on vari
 - Model evaluation and feature importance analysis
 
 ## Usage
-1. Clone the repository
-2. Install the required dependencies
-3. Run the jupyter notebook
+1. Clone the repository using
+   ```
+    git clone https://github.com/sushantkothari/House-Price-Prediction-using-Random-Forest-Regressor-and-Grid-Search.git
+   ```
+3. Install the required dependencies
+4. Run the jupyter notebook
 
 ## Data
 The California Housing dataset is used in this project. It consists of the following features:
